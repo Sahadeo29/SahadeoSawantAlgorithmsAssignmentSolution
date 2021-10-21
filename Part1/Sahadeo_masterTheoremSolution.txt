@@ -1,0 +1,12 @@
+Graded Assignment2
+Part1
+
+a)Time complexity of T(n)is  θ(n^log3[base2])
+
+b)Time complexity of T(n)is  NA
+
+c)Time complexity of T(n)is  NA
+
+d)Time complexity of T(n)is  θ(nlogn)
+
+e)Time complexity of T(n)is  θ(n^2)
